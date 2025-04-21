@@ -3,7 +3,6 @@ import backgroundImage from '../../assets/bg.jpg';
 import Logo from '../../assets/logo.png';
 import { useNavigate } from "react-router-dom";
 import '../../styles/button.css';
-import './Intro.css'; // Custom styling
 
 const Introduction = () => {
   const navigate = useNavigate();
